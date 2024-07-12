@@ -106,6 +106,7 @@ f_parLapply(lines)
 
 
 check <- data.frame()
+<<<<<<< HEAD
 for(n in c(10,100,200)){
   lines <- df1[1:n]
   print(n)
